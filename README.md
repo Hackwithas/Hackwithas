@@ -2,6 +2,10 @@
 
 ###
 
+<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -19,10 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -49,15 +49,11 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=ayushssharmaaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushssharmaaa&theme=chartreuse-dark&hide_border=false" height="150" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ayushssharmaaa/ayushssharmaaa/output/snake.svg" alt="Snake animation" />
 
 ###
