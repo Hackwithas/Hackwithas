@@ -53,7 +53,18 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ayushssharmaaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushssharmaaa&theme=chartreuse-dark&hide_border=false" height="150" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:ayushssharmaaa?theme=gelbooru&padding=7&scale=1&align=center&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=96&section=header&reversal=false&text=ayushssharmaa&fontSize=50&fontColor=FFFFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
