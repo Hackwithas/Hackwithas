@@ -1,4 +1,7 @@
-<h2 align="center">Hi 👋! My name is Ayush Sharma and I'm a Student,<br> from Invertis University</h2>
+<h2 align="center">
+  Hi 👋, I'm Ayush Sharma<br>
+  Aspiring Developer & Tech Enthusiast from Invertis University 🚀
+</h2>
 
 ###
 
