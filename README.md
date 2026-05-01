@@ -55,13 +55,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushssharmaaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Hackwithas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:ayushssharmaaa?theme=gelbooru&padding=7&scale=1&align=center&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:Hackwithas?theme=gelbooru&padding=7&scale=1&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
