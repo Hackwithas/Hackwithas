@@ -53,6 +53,9 @@ Cybersecurity • Web Development • IoT • Secure Development
 <a href="https://www.linkedin.com/in/Hackwithas?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
   </a>
+<a href="https://discord.gg/rQ7tvdQn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=Discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo"  />
+  </a
   <a href="https://mail.google.com/mail/?view=cm&to=ayushssharmaa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
       </a>
