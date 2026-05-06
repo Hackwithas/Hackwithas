@@ -18,7 +18,7 @@ I work across <strong>web development, ethical hacking, secure coding, and IoT s
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hackwithas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Hackwithas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
 </div>
 
 ## 🚀 What I Do
