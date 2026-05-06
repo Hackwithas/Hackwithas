@@ -1,37 +1,53 @@
+<h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hackwithas&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Hackwithas&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
-<h2 align="center">
-  Hi 👋, I'm Ayush Sharma<br>
-  Aspiring Developer & Tech Enthusiast from Invertis University 🚀
-</h2>
 
+<p align="center"><strong>
+  🔐 Cybersecurity Enthusiast | Web Developer | Secure Systems Builder
+</strong></p>
+
+Welcome to my GitHub profile! I'm <strong>Ayush Sharma</strong>, also known as <strong>Hackwithas</strong> — a developer focused on building <strong>secure web applications, modern digital experiences, and cybersecurity-driven solutions</strong>.
+
+I work across <strong>web development, ethical hacking, secure coding, and IoT systems</strong>, combining software development with security-first thinking to build impactful projects.
+
+---
 ###
 
-
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img src="https://streak-stats.demolab.com?user=Hackwithas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+## 🚀 What I Do
+
+* 🔐 Learn and Practice Cybersecurity / Ethical Hacking
+* 🌐 Build Modern Responsive Web Applications
+* 🛠️ Develop Secure and Scalable Projects
+* 🤖 Work on IoT / IIoT Based Solutions
+* 📚 Continuously Improve Through Real-World Projects
+
+## 🧰 Tech Stack
+
+**Languages:**
+HTML • CSS • JavaScript • Python • C • Java
+
+**Tools & Platforms:**
+Git • GitHub • Linux • VS Code
+
+**Domains:**
+Cybersecurity • Web Development • IoT • Secure Development
+
+## 📌 Current Focus
+
+* Advancing in Cybersecurity & Offensive Security
+* Building Real-World Security Projects
+* Strengthening DSA / Development Skills
+* Preparing for Internships & Tech Roles
+
+## 📫 Connect With Me
 
 <div align="center">
   <a href="https://youtube.com/@ayushpandiiit?si=tzrmjzaHoZlxEXNQ" target="_blank">
@@ -54,18 +70,16 @@
   </a>
 </div>
 
-###
+## 📊 GitHub Contribution Graph
+<a href="https://github.com/Hackwithas">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hackwithas&bg_color=000000&color=ffffff&line=FFA500&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</a>
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hackwithas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=96&section=header&reversal=false&text=Hackwithas&fontSize=50&fontColor=FFFFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
+## 💡 Quote
+<p align="center">
+  <b>🚀 "Consistency + Practice = Success"</b>
+</p>
+<!-- 🔥 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=80&section=footer"/>
+</p>
