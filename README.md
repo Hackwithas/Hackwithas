@@ -1,3 +1,8 @@
+📊 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KuldeepOnGit&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <h2 align="center">
   Hi 👋, I'm Ayush Sharma<br>
   Aspiring Developer & Tech Enthusiast from Invertis University 🚀
