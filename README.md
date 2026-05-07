@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm <strong>Ayush Sharma</strong>, also known as <
 I work across <strong>web development, ethical hacking, secure coding, and IoT systems</strong>, combining software development with security-first thinking to build impactful projects.
 
 ---
-###
 
 <br clear="both">
 
